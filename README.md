@@ -1,3 +1,5 @@
+# All the code is done during the hackathon's period!
+
 # Sachnha.com
 
 Sachnha.com is an AI-based real-estate platform for housing buyers and sellers.
@@ -13,7 +15,7 @@ conda activate sachnha
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
-pip install fastapi uvicorn 
+pip install -r requirements.txt
 ```
 
 ## Feature
