@@ -7,7 +7,7 @@ Create an environment to run the backend of the app.
 Use [anaconda](https://www.anaconda.com/) to create a virtual environment. 
 
 ```bash
-conda create --name sachnha python=3.5
+conda create --name sachnha python=3.6
 conda activate sachnha
 ```
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
