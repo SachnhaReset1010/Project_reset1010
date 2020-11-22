@@ -1,8 +1,10 @@
-# All the code is done during the hackathon's period!
+# All the code are done during the hackathon's period!
 
 # Sachnha.com
 
 Sachnha.com is an AI-based real-estate platform for housing buyers and sellers.
+
+# Backend
 
 ## Installation
 Create an environment to run the backend of the app.
@@ -45,7 +47,7 @@ pip install -r requirements.txt
    
    Training the model on the train set
    
-   Applied the trained to new dataset
+   Applied the trained model to new dataset
    
 ![file3_bcc](https://user-images.githubusercontent.com/69978820/99877041-a4680c00-2bfb-11eb-9500-ce8ac3ab13b8.png)
 

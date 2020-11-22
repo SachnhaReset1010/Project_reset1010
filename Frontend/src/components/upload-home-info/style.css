@@ -1,0 +1,69 @@
+.photo-preview {
+  /* max-height: 50%; */
+  max-width: 80%;
+  /* width: 320px; */
+  /* height: 180px; */
+  object-fit: cover;
+  padding: 0.75rem;
+}
+
+.div-photo-pre {
+  position: relative;
+}
+.label-holder {
+  width: 100%;
+  height: 50px;
+  /* margin-top: 3em; */
+  display: grid;
+  /* place-items: center; */
+}
+.label {
+  height: 50px;
+  width: 50px;
+  background-color: #2a3eb1;
+  color: white;
+  display: grid;
+  place-items: center;
+  font-size: 2.5rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+#file [type="file"] {
+  display: none;
+}
+.deleteBtn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  visibility: hidden;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  color: #23727f;
+}
+.deleteBtn:active {
+  outline: none;
+  box-shadow: none;
+  border: none;
+}
+.div-photo-pre:hover .deleteBtn {
+  visibility: visible;
+}
+.xbtn {
+  background-color: transparent;
+}
+.notice {
+  position: fixed;
+  top: 50%;
+  right: 50%;
+  transform: translate(50%, -50%);
+  width: 100%;
+  display: none;
+}
+.card {
+  padding: 15px;
+}
+.notice-subtitle {
+  background-color: #ff0005;
+}
