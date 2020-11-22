@@ -4,9 +4,9 @@ import cv2
 
 def mse(img1, img2):
     '''
-	:type: img1: narray
+    :type: img1: narray
     :type: img2: narray
-	:rtype: float
+    :rtype: float
     Input image array
     Output mean square error
 	'''
@@ -16,9 +16,9 @@ def mse(img1, img2):
 
 def resize_images(img1_path, img2_path):
     '''
-	:type: img1_path: str
+    :type: img1_path: str
     :type: img2_path: str
-	:rtype: narray ,narray, float
+    :rtype: narray ,narray, float
     Input image paths
     Output resized image arrays and new size
 	'''
