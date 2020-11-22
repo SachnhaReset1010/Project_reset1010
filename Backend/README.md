@@ -1,4 +1,6 @@
 # Backend
+Web API developed with FastAPI and uvicorn
+AI features using ImageAI
 
 ## Installation
 Create an environment to run the backend of the app.
