@@ -1,6 +1,6 @@
 # Backend
-Web API developed with FastAPI and uvicorn
-AI features using ImageAI
+Web API developed with FastAPI and uvicorn;
+AI features using ImageAI, Tesseract OCR
 
 ## Installation
 Create an environment to run the backend of the app.
