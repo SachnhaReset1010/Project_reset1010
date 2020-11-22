@@ -68,10 +68,10 @@ pip install -r requirements.txt
 * Metrics:
 
   Mean Square Error (MSE)
+   ![MSE](https://user-images.githubusercontent.com/74822595/99890795-54bd2b00-2c63-11eb-9e5d-83fcc0c18049.png)
   
   Structural Similarity Index (SSIM)
-  
-![file7_compare](https://user-images.githubusercontent.com/69978820/99877047-a631cf80-2bfb-11eb-9f52-cd21c6018537.png)
+   ![SSIM](https://user-images.githubusercontent.com/74822595/99890870-f3498c00-2c63-11eb-8e4c-d8507cfa8608.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
