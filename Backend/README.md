@@ -31,7 +31,7 @@ pip install -r requirements.txt
 #### Step 2: Extracting names of furniture
 ![file2_OD2](https://user-images.githubusercontent.com/69978820/99877040-a3cf7580-2bfb-11eb-9cc3-2117eac2a581.png)
 
-### Feature 2: Detecting and verifying the adress based on the street-side image
+### Feature 2: Detecting and verifying the address based on the street-side image
 
 #### Step 1: Using Custom trained AI model to detect street banner, signboard, address plate from image
 * Using YOLO deep learning object detection architecture
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 * Using Tesseract OCR to detect street names/home number
 ![file4_bcc2](https://user-images.githubusercontent.com/69978820/99877042-a500a280-2bfb-11eb-89cd-5fccea29f205.png)
 
-### Feature 3: Detecting and comparing customer photos for identify verification
+### Feature 3: Detecting and comparing customer's photos for identity verification
 
 #### Step 1: Detecting face image from upload identity card
 * Detecting face using object detection technique of the developed model
