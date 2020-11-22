@@ -8,7 +8,7 @@ Sachnha.com is an AI-based real-estate platform for housing buyers and sellers.
 * Use the Web framework Reactjs
 * Use UI framework Bootstrap, React-Bootstrap, Material-UI
 
-#### Step 1: The seller fill the information of the real-estate product such as the square, price, adresse, ... 
+#### Step 1: The seller fills the information of the real-estate product such as the square, price, adress, ... 
 
 ![rm_file1](https://user-images.githubusercontent.com/74822595/99891439-0c553b80-2c6a-11eb-8d53-e08c0c372c3c.png)
 
